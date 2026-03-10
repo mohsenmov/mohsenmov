@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 I'm currently working on cool projects in space robotics and autonomous systems.
-This profile will be updated soon with more information about my work, research interests, and projects.  
 Stay tuned — more details coming soon.  
 Thanks for visiting! 🚀
 <!--
